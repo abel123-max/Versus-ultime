@@ -1,0 +1,29 @@
+.cadre_du_versus{
+    width: 575px;
+    height: 256.5px;
+    padding: 20px;
+    border: 2px solid blue;
+
+  }
+
+  .Minato{
+      
+      border:  2px solid black;
+      float: left;
+  }
+  .Itachi{
+     
+      border: 2px solid black;
+      float: right
+    
+    }
+    
+      
+  
+
+.vs{ float: left;
+    margin-top: 85px;
+    margin-left: 20px;
+   
+
+}
