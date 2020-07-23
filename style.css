@@ -1,29 +1,44 @@
+ 
 .cadre_du_versus{
     width: 575px;
-    height: 256.5px;
+    height:260px;
     padding: 20px;
     border: 2px solid blue;
-
+display: flex;
+flex-direction: row;
+justify-content: space-between; 
+background-color: rgba(87, 13, 13, 0.534);
   }
 
   .Minato{
+      border: 2px solid black;
       
-      border:  2px solid black;
-      float: left;
+      
+      
   }
   .Itachi{
+      align-self: flex-end;
+     border: 2px solid black;
      
-      border: 2px solid black;
-      float: right
     
     }
     
       
   
 
-.vs{ float: left;
-    margin-top: 85px;
-    margin-left: 20px;
+.vs{
+align-self: center;
    
 
+}
+p{
+    text-align: center;
+}
+body{
+    background-color:burlywood;
+}
+audio{
+    height: 5px;
+    width: 50px;
+ align-self: center;
 }
